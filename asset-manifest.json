@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Shubham-Nagpure/react-portfolio/static/css/main.4c564340.css",
+    "main.js": "/Shubham-Nagpure/react-portfolio/static/js/main.b29e3261.js",
+    "static/media/cv.pdf": "/Shubham-Nagpure/react-portfolio/static/media/cv.1676dcdc83730930d888.pdf",
+    "static/media/me.png": "/Shubham-Nagpure/react-portfolio/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/me-about.jpg": "/Shubham-Nagpure/react-portfolio/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "index.html": "/Shubham-Nagpure/react-portfolio/index.html",
+    "main.4c564340.css.map": "/Shubham-Nagpure/react-portfolio/static/css/main.4c564340.css.map",
+    "main.b29e3261.js.map": "/Shubham-Nagpure/react-portfolio/static/js/main.b29e3261.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c564340.css",
+    "static/js/main.b29e3261.js"
+  ]
+}
